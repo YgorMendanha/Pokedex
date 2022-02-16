@@ -3,7 +3,7 @@
 <br>
 <div align="center"> 
 
-![last commit](https://img.shields.io/github/last-commit/YgorMendanha/Pokedex) ![license](https://img.shields.io/github/license/YgorMendanha/Pokedex) ![deploy](https://img.shields.io/github/deployments/YgorMendanha/NotePad//) 
+![last commit](https://img.shields.io/github/last-commit/YgorMendanha/Pokedex) ![license](https://img.shields.io/github/license/YgorMendanha/Pokedex) ![deploy](https://img.shields.io/github/deployments/YgorMendanha/Pokedex/Production) 
 
 </div> 
 
@@ -18,7 +18,7 @@
 <br>
 <h3 align="center"> 
 Veja o Projeto Online clicando 
- <a href="/"> Aqui!</a>
+ <a href="pokedex-theta-snowy.vercel.app"> Aqui!</a>
 </h3>
 <br>
 <br>
@@ -56,7 +56,7 @@ $ npm run dev
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
-- [axios](https://momentjs.com/timezone/)
+- [Axios](https://axios-http.com/docs/intro)
 - [Mui](https://mui.com)
 
 
