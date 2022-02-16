@@ -18,7 +18,7 @@
 <br>
 <h3 align="center"> 
 Veja o Projeto Online clicando 
- <a href="pokedex-theta-snowy.vercel.app"> Aqui!</a>
+ <a href="https://pokedex-theta-snowy.vercel.app"> Aqui!</a>
 </h3>
 <br>
 <br>
