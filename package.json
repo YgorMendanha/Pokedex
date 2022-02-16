@@ -1,0 +1,30 @@
+{
+  "name": "pokedex",
+  "private": true,
+  "homepage": "https://YgorMendanha.github.io/pokedex",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "predeploy": "tsc && vite build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.4.2",
+    "@mui/material": "^5.4.2",
+    "axios": "^0.26.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "gh-pages": "^3.2.3",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
