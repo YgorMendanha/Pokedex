@@ -3,7 +3,7 @@
 <br>
 <div align="center"> 
 
-![last commit](https://img.shields.io/github/last-commit/YgorMendanha/Pokedex) ![license](https://img.shields.io/github/license/YgorMendanha/Pokedex) ![deploy](https://img.shields.io/github/deployments/YgorMendanha/Pokedex/Production) 
+![last commit](https://img.shields.io/github/last-commit/YgorMendanha/Pokedex) ![license](https://img.shields.io/github/license/YgorMendanha/Pokedex) ![deploy](https://img.shields.io/github/deployments/YgorMendanha/Pokedex/github-pages) 
 
 </div> 
 
@@ -18,7 +18,7 @@
 <br>
 <h3 align="center"> 
 Veja o Projeto Online clicando 
- <a href="https://pokedex-theta-snowy.vercel.app"> Aqui!</a>
+ <a href="https://ygormendanha.github.io/Pokedex"> Aqui!</a>
 </h3>
 <br>
 <br>
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 <p align="center">
-    <a href=https://www.linkedin.com/in/ygormendanha/>
+    <a href="https://www.linkedin.com/in/ygormendanha/">
         <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/ygormendanha/">
     </a>
   <a href="https://www.instagram.com/_oygorguimaraes/">
